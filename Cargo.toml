@@ -4,6 +4,7 @@ version = "0.1.0"
 edition = "2021"
 description = "T-minus event coordination for multi-agent systems"
 license = "MIT"
+repository = "https://github.com/SuperInstance/t-minus"
 
 [[bin]]
 name = "t-minus"
